@@ -16,7 +16,7 @@
                 University</h1>
         </div>
         <div class="form-control absolute top-1/2 left-1/2 transform -translate-x-2/4 -translate-y-2/4">
-            <form action="#" class="border rounded p-8 space-y-4">
+            <form action="/students" class="border rounded p-8 space-y-4">
                 <label for="name" class="block text-3xl">Name</label>
                 <input type="text" placeholder="Name" id="name"
                     class="border border-black rounded-md px-4 py-2 outline-none w-full">
